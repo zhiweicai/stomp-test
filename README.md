@@ -20,5 +20,5 @@ USAGE:
 user need to put the ip address of the rabbitmq server into the textbox and click connect
 
 TEST:
-python sendmsg.py <rabbitqueu ip> <msg>
+python sendmsg.py "ipaddress" "message"
 
