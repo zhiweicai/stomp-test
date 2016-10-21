@@ -18,3 +18,7 @@ Send any message to the channel will be displayed on the page
 
 USAGE:
 user need to put the ip address of the rabbitmq server into the textbox and click connect
+
+TEST:
+python sendmsg.py <rabbitqueu ip> <msg>
+
